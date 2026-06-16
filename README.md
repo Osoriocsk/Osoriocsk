@@ -35,7 +35,7 @@ I'm currently pushing my English from B2, so feel free to reach out in either la
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **Arquitecturra** | Full-stack lab equipment management system with a 4-role permission system and JWT auth. Deployed backend on Render, frontend on Netlify. | Vue.js 3, Node/Express, PostgreSQL (Supabase) | `[link here]` |
+| **Arquitecturra** | Full-stack lab equipment management system with a 4-role permission system and JWT auth. Deployed backend on Render, frontend on Netlify. | Vue.js 3, Node/Express, PostgreSQL (Supabase) | https://github.com/Osoriocsk/Laboratorio |
 | **Traffic Simulation — Cra 27 x Calle 45** | Discrete-event simulation of a real Bucaramanga intersection with statistical analysis and an interactive dashboard. | Python, SimPy, Streamlit | `[link here]` |
 | **D'mars Arte** | E-commerce style website for an independent artist selling oil paintings. Deployed via Vercel. | Vite, Vanilla JS | `[link here]` |
 | **RoboEvita 1.0** | Autonomous obstacle-avoidance robot built with ultrasonic sensing and motor control. | Arduino, HC-SR04, L298N | `[link here]` |
@@ -56,8 +56,8 @@ I'm currently pushing my English from B2, so feel free to reach out in either la
 
 ### Contact
 
-- ✉️ Email: `[placeholder — fill in after creating]`
-- 💼 LinkedIn: `[placeholder — fill in after creating]`
+- ✉️ Email: kevinosoriocalderon@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/santiago-osorio-calderón-4246a0250
 
 ---
 
@@ -82,7 +82,7 @@ Actualmente estoy avanzando mi inglés B2, así que no hay problema en escribirm
 
 | Proyecto | Descripción | Stack | Link |
 |---|---|---|---|
-| **Arquitecturra** | Sistema de gestión de equipos de laboratorio full-stack con sistema de permisos de 4 roles y autenticación JWT. Backend desplegado en Render, frontend en Netlify. | Vue.js 3, Node/Express, PostgreSQL (Supabase) | `[link aquí]` |
+| **Arquitecturra** | Sistema de gestión de equipos de laboratorio full-stack con sistema de permisos de 4 roles y autenticación JWT. Backend desplegado en Render, frontend en Netlify. | Vue.js 3, Node/Express, PostgreSQL (Supabase) | https://github.com/Osoriocsk/Laboratorio |
 | **Simulación de Tránsito — Cra 27 x Calle 45** | Simulación de eventos discretos de una intersección real de Bucaramanga, con análisis estadístico y dashboard interactivo. | Python, SimPy, Streamlit | `[link aquí]` |
 | **D'mars Arte** | Sitio web tipo e-commerce para que una artista independiente venda sus pinturas al óleo. Desplegado en Vercel. | Vite, JS Vanilla | `[link aquí]` |
 | **RoboEvita 1.0** | Robot autónomo evasor de obstáculos con sensado ultrasónico y control de motores. | Arduino, HC-SR04, L298N | `[link aquí]` |
@@ -92,8 +92,10 @@ Actualmente estoy avanzando mi inglés B2, así que no hay problema en escribirm
 
 ### 📫 Contacto
 
-- ✉️ Correo: `[placeholder — completar luego de crear el repo]`
-- 💼 LinkedIn: `[placeholder — completar luego de crear el repo]`
+- ✉️ Correo: kevinosoriocalderon@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/santiago-osorio-calderón-4246a0250
+
+
 
 ---
 
