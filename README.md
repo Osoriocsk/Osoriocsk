@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Santiago Osorio (Kevin)
+# Hi I'm Santiago Osorio (Kevin)
 
 <a href="https://github.com/Osoriocsk">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student+%40+UTS;Full-Stack+Developer;Machine+Learning+%26+Simulation+Enthusiast;Building+things%2C+breaking+things%2C+learning+from+both" alt="Typing SVG" />
@@ -19,11 +19,11 @@
 
 ### About Me
 
-I'm a Systems Engineering student in the final stretch of my degree at **Unidades Tecnológicas de Santander (UTS)**, based in Bucaramanga, Colombia. I work across full-stack development, machine learning, discrete-event simulation, and robotics — usually as part of team-based academic projects, but I also build things on the side out of curiosity (and a bit of restaurant-business automation for my family's place).
+Systems Engineer in training, specialized in full-stack architecture, applied machine learning, and process automation. I design and ship production-grade systems — from role-based permission architectures and discrete-event simulations to autonomous robotics control. My current focus is agentic AI infrastructure: deploying and orchestrating multi-agent systems (OpenClaw/OpenHands) for autonomous task execution, building end-to-end automation pipelines with n8n that connect APIs and business workflows, and integrating LLM-driven agents with real-world hardware (ESP32 robotics over TCP) and messaging platforms (WhatsApp). I operate at the intersection of software architecture, data-driven decision systems, and emerging AI tooling.
 
-I'm currently pushing my English from B1 to B2, so feel free to reach out in either language.
+I'm currently pushing my English from B2, so feel free to reach out in either language.
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=vue,js,nodejs,express,postgres,python,arduino,html,css,git,github,vscode,figma" />
@@ -31,7 +31,7 @@ I'm currently pushing my English from B1 to B2, so feel free to reach out in eit
 
 **Also working with:** SimPy (discrete-event simulation), Streamlit, Supabase, JWT auth, JFLAP, Monte Carlo modeling in Excel/pgAdmin.
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
@@ -54,7 +54,7 @@ I'm currently pushing my English from B1 to B2, so feel free to reach out in eit
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Osoriocsk&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📫 Contact
+### Contact
 
 - ✉️ Email: `[placeholder — fill in after creating]`
 - 💼 LinkedIn: `[placeholder — fill in after creating]`
@@ -66,11 +66,11 @@ I'm currently pushing my English from B1 to B2, so feel free to reach out in eit
 
 ### Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas, en el tramo final de mi carrera en las **Unidades Tecnológicas de Santander (UTS)**, en Bucaramanga, Colombia. Trabajo en desarrollo full-stack, machine learning, simulación de eventos discretos y robótica — normalmente como parte de proyectos académicos en equipo, pero también construyo cosas por mi cuenta por pura curiosidad (y algo de automatización para el restaurante de mi familia).
+Ingeniero de Sistemas en formación, especializado en arquitectura full-stack, machine learning aplicado y automatización de procesos. Diseño y despliego sistemas de nivel productivo — desde arquitecturas de permisos basadas en roles y simulaciones de eventos discretos, hasta control de robótica autónoma. Mi enfoque actual está en infraestructura de IA agéntica: despliegue y orquestación de sistemas multiagente (OpenClaw/OpenHands) para ejecución autónoma de tareas, construcción de pipelines de automatización end-to-end con n8n que conectan APIs y flujos de negocio, e integración de agentes basados en LLM con hardware real (robótica ESP32 vía TCP) y plataformas de mensajería (WhatsApp). Trabajo en la intersección entre arquitectura de software, sistemas de decisión basados en datos, y herramientas emergentes de IA.
 
-Actualmente estoy avanzando mi inglés de B1 a B2, así que no hay problema en escribirme en cualquiera de los dos idiomas.
+Actualmente estoy avanzando mi inglés B2, así que no hay problema en escribirme en cualquiera de los dos idiomas.
 
-### 🛠️ Stack Tecnológico
+###  Stack Tecnológico
 
 <p>
   <img src="https://skillicons.dev/icons?i=vue,js,nodejs,express,postgres,python,arduino,html,css,git,github,vscode,figma" />
@@ -78,7 +78,7 @@ Actualmente estoy avanzando mi inglés de B1 a B2, así que no hay problema en e
 
 **También trabajo con:** SimPy (simulación de eventos discretos), Streamlit, Supabase, autenticación JWT, JFLAP, modelado Monte Carlo en Excel/pgAdmin.
 
-### 🚀 Proyectos Destacados
+###  Proyectos Destacados
 
 | Proyecto | Descripción | Stack | Link |
 |---|---|---|---|
