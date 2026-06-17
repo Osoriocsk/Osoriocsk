@@ -51,7 +51,8 @@ I'm currently pushing my English from B2, so feel free to reach out in either la
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Osoriocsk&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Osoriocsk&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ### Contact
